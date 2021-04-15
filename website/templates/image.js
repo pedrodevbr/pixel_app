@@ -53,7 +53,7 @@ function draw_image(img_array,canvas){
 
 async function melt(img_array){
     const BACKGROUND_COLOR = 'A0A0A0'
-    const original_img_array = img_array
+    
     for (let i = 0;i<30;i++){
 
         console.log('border fixed')
@@ -82,12 +82,13 @@ async function melt(img_array){
                     img_array[x+y_down*24] = img_array[x+y*24]
                     img_array[x+y*24] = BACKGROUND_COLOR
                 }
+                /*
                 else if (img_array[x_right+y_down*24] == BACKGROUND_COLOR && img_array[x_left+y_down*24] == BACKGROUND_COLOR){
                     d = Math.round(Math.random())
                     //console.log(d)
                     img_array[(x+d)+y_down*24] = img_array[x+y*24]
                     img_array[x+y*24] = BACKGROUND_COLOR
-                }
+                }*/
                 else if (img_array[x_right+y_down*24] != BACKGROUND_COLOR && img_array[x_left+y_down*24] == BACKGROUND_COLOR){
                     img_array[x_left+y_down*24] = img_array[x+y*24]
                     img_array[x+y*24] = BACKGROUND_COLOR
