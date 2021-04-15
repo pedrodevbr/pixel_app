@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>Pixel App</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src='image.js'></script>
+    </head>
+   <body >
+        <div class="jumbotron text-center" border-radius: 8px;>
+            <h1>Falling Rocks App</h1>
+        </div>
+            
+        <div align="center" >
+        
+            <div>
+                <canvas  id="top_canvas" width="240" height="240">
+            </div>
+            <div>
+                <label for="name">Enter an image ID:</label>
+            </div>
+            <div>
+                <input type="text" id="image_id" name="input" onkeydown="get_image_id(this)"> 
+            </div>
+            <div>
+                <button onclick='get_data()'>FALL!</button>
+            </div>
+            
+            <canvas  id="bottom_canvas" width="240" height="240"></canvas>
+
+            <div>
+                <button onclick='save_image()'>SAVE IMAGE</button>
+            </div>
+        
+        </div>
+     
+   </body>
+   
+
+</html>

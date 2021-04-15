@@ -1,0 +1,1298 @@
+[
+    {
+        "id": 2081535,
+        "punk_id": 9999,
+        "pixel_id": 0,
+        "x_location": 12,
+        "y_location": 6,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081536,
+        "punk_id": 9999,
+        "pixel_id": 1,
+        "x_location": 13,
+        "y_location": 6,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081537,
+        "punk_id": 9999,
+        "pixel_id": 2,
+        "x_location": 14,
+        "y_location": 6,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081538,
+        "punk_id": 9999,
+        "pixel_id": 3,
+        "x_location": 9,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081539,
+        "punk_id": 9999,
+        "pixel_id": 4,
+        "x_location": 10,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081540,
+        "punk_id": 9999,
+        "pixel_id": 5,
+        "x_location": 11,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081541,
+        "punk_id": 9999,
+        "pixel_id": 6,
+        "x_location": 12,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081542,
+        "punk_id": 9999,
+        "pixel_id": 7,
+        "x_location": 13,
+        "y_location": 7,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081543,
+        "punk_id": 9999,
+        "pixel_id": 8,
+        "x_location": 14,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081544,
+        "punk_id": 9999,
+        "pixel_id": 9,
+        "x_location": 15,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081545,
+        "punk_id": 9999,
+        "pixel_id": 10,
+        "x_location": 16,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081546,
+        "punk_id": 9999,
+        "pixel_id": 11,
+        "x_location": 17,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081547,
+        "punk_id": 9999,
+        "pixel_id": 12,
+        "x_location": 18,
+        "y_location": 7,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081548,
+        "punk_id": 9999,
+        "pixel_id": 13,
+        "x_location": 8,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081549,
+        "punk_id": 9999,
+        "pixel_id": 14,
+        "x_location": 9,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081550,
+        "punk_id": 9999,
+        "pixel_id": 15,
+        "x_location": 10,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081551,
+        "punk_id": 9999,
+        "pixel_id": 16,
+        "x_location": 11,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081552,
+        "punk_id": 9999,
+        "pixel_id": 17,
+        "x_location": 12,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081553,
+        "punk_id": 9999,
+        "pixel_id": 18,
+        "x_location": 13,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081554,
+        "punk_id": 9999,
+        "pixel_id": 19,
+        "x_location": 14,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081555,
+        "punk_id": 9999,
+        "pixel_id": 20,
+        "x_location": 15,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081556,
+        "punk_id": 9999,
+        "pixel_id": 21,
+        "x_location": 16,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081557,
+        "punk_id": 9999,
+        "pixel_id": 22,
+        "x_location": 17,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081558,
+        "punk_id": 9999,
+        "pixel_id": 23,
+        "x_location": 18,
+        "y_location": 8,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081559,
+        "punk_id": 9999,
+        "pixel_id": 24,
+        "x_location": 19,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081560,
+        "punk_id": 9999,
+        "pixel_id": 25,
+        "x_location": 20,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081561,
+        "punk_id": 9999,
+        "pixel_id": 26,
+        "x_location": 21,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081562,
+        "punk_id": 9999,
+        "pixel_id": 27,
+        "x_location": 22,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081563,
+        "punk_id": 9999,
+        "pixel_id": 28,
+        "x_location": 23,
+        "y_location": 8,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081564,
+        "punk_id": 9999,
+        "pixel_id": 29,
+        "x_location": 7,
+        "y_location": 9,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081565,
+        "punk_id": 9999,
+        "pixel_id": 30,
+        "x_location": 8,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081566,
+        "punk_id": 9999,
+        "pixel_id": 31,
+        "x_location": 9,
+        "y_location": 9,
+        "fill_color": "8B532C"
+    },
+    {
+        "id": 2081567,
+        "punk_id": 9999,
+        "pixel_id": 32,
+        "x_location": 10,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081568,
+        "punk_id": 9999,
+        "pixel_id": 33,
+        "x_location": 11,
+        "y_location": 9,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081569,
+        "punk_id": 9999,
+        "pixel_id": 34,
+        "x_location": 12,
+        "y_location": 9,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081570,
+        "punk_id": 9999,
+        "pixel_id": 35,
+        "x_location": 13,
+        "y_location": 9,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081571,
+        "punk_id": 9999,
+        "pixel_id": 36,
+        "x_location": 14,
+        "y_location": 9,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081572,
+        "punk_id": 9999,
+        "pixel_id": 37,
+        "x_location": 15,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081573,
+        "punk_id": 9999,
+        "pixel_id": 38,
+        "x_location": 16,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081574,
+        "punk_id": 9999,
+        "pixel_id": 39,
+        "x_location": 17,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081575,
+        "punk_id": 9999,
+        "pixel_id": 40,
+        "x_location": 18,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081576,
+        "punk_id": 9999,
+        "pixel_id": 41,
+        "x_location": 19,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081577,
+        "punk_id": 9999,
+        "pixel_id": 42,
+        "x_location": 20,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081578,
+        "punk_id": 9999,
+        "pixel_id": 43,
+        "x_location": 21,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081579,
+        "punk_id": 9999,
+        "pixel_id": 44,
+        "x_location": 22,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081580,
+        "punk_id": 9999,
+        "pixel_id": 45,
+        "x_location": 23,
+        "y_location": 9,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081581,
+        "punk_id": 9999,
+        "pixel_id": 46,
+        "x_location": 6,
+        "y_location": 10,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081582,
+        "punk_id": 9999,
+        "pixel_id": 47,
+        "x_location": 7,
+        "y_location": 10,
+        "fill_color": "85561E"
+    },
+    {
+        "id": 2081583,
+        "punk_id": 9999,
+        "pixel_id": 48,
+        "x_location": 8,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081584,
+        "punk_id": 9999,
+        "pixel_id": 49,
+        "x_location": 9,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081585,
+        "punk_id": 9999,
+        "pixel_id": 50,
+        "x_location": 10,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081586,
+        "punk_id": 9999,
+        "pixel_id": 51,
+        "x_location": 11,
+        "y_location": 10,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081587,
+        "punk_id": 9999,
+        "pixel_id": 52,
+        "x_location": 12,
+        "y_location": 10,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081588,
+        "punk_id": 9999,
+        "pixel_id": 53,
+        "x_location": 13,
+        "y_location": 10,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081589,
+        "punk_id": 9999,
+        "pixel_id": 54,
+        "x_location": 14,
+        "y_location": 10,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081590,
+        "punk_id": 9999,
+        "pixel_id": 55,
+        "x_location": 15,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081591,
+        "punk_id": 9999,
+        "pixel_id": 56,
+        "x_location": 16,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081592,
+        "punk_id": 9999,
+        "pixel_id": 57,
+        "x_location": 17,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081593,
+        "punk_id": 9999,
+        "pixel_id": 58,
+        "x_location": 18,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081594,
+        "punk_id": 9999,
+        "pixel_id": 59,
+        "x_location": 19,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081595,
+        "punk_id": 9999,
+        "pixel_id": 60,
+        "x_location": 20,
+        "y_location": 10,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081596,
+        "punk_id": 9999,
+        "pixel_id": 61,
+        "x_location": 21,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081597,
+        "punk_id": 9999,
+        "pixel_id": 62,
+        "x_location": 22,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081598,
+        "punk_id": 9999,
+        "pixel_id": 63,
+        "x_location": 23,
+        "y_location": 10,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081599,
+        "punk_id": 9999,
+        "pixel_id": 64,
+        "x_location": 5,
+        "y_location": 11,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081600,
+        "punk_id": 9999,
+        "pixel_id": 65,
+        "x_location": 6,
+        "y_location": 11,
+        "fill_color": "85561E"
+    },
+    {
+        "id": 2081601,
+        "punk_id": 9999,
+        "pixel_id": 66,
+        "x_location": 7,
+        "y_location": 11,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081602,
+        "punk_id": 9999,
+        "pixel_id": 67,
+        "x_location": 8,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081603,
+        "punk_id": 9999,
+        "pixel_id": 68,
+        "x_location": 9,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081604,
+        "punk_id": 9999,
+        "pixel_id": 69,
+        "x_location": 10,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081605,
+        "punk_id": 9999,
+        "pixel_id": 70,
+        "x_location": 11,
+        "y_location": 11,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081606,
+        "punk_id": 9999,
+        "pixel_id": 71,
+        "x_location": 12,
+        "y_location": 11,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081607,
+        "punk_id": 9999,
+        "pixel_id": 72,
+        "x_location": 13,
+        "y_location": 11,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081608,
+        "punk_id": 9999,
+        "pixel_id": 73,
+        "x_location": 14,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081609,
+        "punk_id": 9999,
+        "pixel_id": 74,
+        "x_location": 15,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081610,
+        "punk_id": 9999,
+        "pixel_id": 75,
+        "x_location": 16,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081611,
+        "punk_id": 9999,
+        "pixel_id": 76,
+        "x_location": 17,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081612,
+        "punk_id": 9999,
+        "pixel_id": 77,
+        "x_location": 18,
+        "y_location": 11,
+        "fill_color": "4A1201"
+    },
+    {
+        "id": 2081613,
+        "punk_id": 9999,
+        "pixel_id": 78,
+        "x_location": 19,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081614,
+        "punk_id": 9999,
+        "pixel_id": 79,
+        "x_location": 20,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081615,
+        "punk_id": 9999,
+        "pixel_id": 80,
+        "x_location": 21,
+        "y_location": 11,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081616,
+        "punk_id": 9999,
+        "pixel_id": 81,
+        "x_location": 22,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081617,
+        "punk_id": 9999,
+        "pixel_id": 82,
+        "x_location": 23,
+        "y_location": 11,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081618,
+        "punk_id": 9999,
+        "pixel_id": 83,
+        "x_location": 4,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081619,
+        "punk_id": 9999,
+        "pixel_id": 84,
+        "x_location": 5,
+        "y_location": 12,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081620,
+        "punk_id": 9999,
+        "pixel_id": 85,
+        "x_location": 6,
+        "y_location": 12,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081621,
+        "punk_id": 9999,
+        "pixel_id": 86,
+        "x_location": 7,
+        "y_location": 12,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081622,
+        "punk_id": 9999,
+        "pixel_id": 87,
+        "x_location": 8,
+        "y_location": 12,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081623,
+        "punk_id": 9999,
+        "pixel_id": 88,
+        "x_location": 9,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081624,
+        "punk_id": 9999,
+        "pixel_id": 89,
+        "x_location": 10,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081625,
+        "punk_id": 9999,
+        "pixel_id": 90,
+        "x_location": 11,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081626,
+        "punk_id": 9999,
+        "pixel_id": 91,
+        "x_location": 12,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081627,
+        "punk_id": 9999,
+        "pixel_id": 92,
+        "x_location": 13,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081628,
+        "punk_id": 9999,
+        "pixel_id": 93,
+        "x_location": 14,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081629,
+        "punk_id": 9999,
+        "pixel_id": 94,
+        "x_location": 15,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081630,
+        "punk_id": 9999,
+        "pixel_id": 95,
+        "x_location": 16,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081631,
+        "punk_id": 9999,
+        "pixel_id": 96,
+        "x_location": 17,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081632,
+        "punk_id": 9999,
+        "pixel_id": 97,
+        "x_location": 18,
+        "y_location": 12,
+        "fill_color": "4A1201"
+    },
+    {
+        "id": 2081633,
+        "punk_id": 9999,
+        "pixel_id": 98,
+        "x_location": 19,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081634,
+        "punk_id": 9999,
+        "pixel_id": 99,
+        "x_location": 20,
+        "y_location": 12,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081635,
+        "punk_id": 9999,
+        "pixel_id": 100,
+        "x_location": 21,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081636,
+        "punk_id": 9999,
+        "pixel_id": 101,
+        "x_location": 22,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081637,
+        "punk_id": 9999,
+        "pixel_id": 102,
+        "x_location": 23,
+        "y_location": 12,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081638,
+        "punk_id": 9999,
+        "pixel_id": 103,
+        "x_location": 3,
+        "y_location": 13,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081639,
+        "punk_id": 9999,
+        "pixel_id": 104,
+        "x_location": 4,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081640,
+        "punk_id": 9999,
+        "pixel_id": 105,
+        "x_location": 5,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081641,
+        "punk_id": 9999,
+        "pixel_id": 106,
+        "x_location": 6,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081642,
+        "punk_id": 9999,
+        "pixel_id": 107,
+        "x_location": 7,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081643,
+        "punk_id": 9999,
+        "pixel_id": 108,
+        "x_location": 8,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081644,
+        "punk_id": 9999,
+        "pixel_id": 109,
+        "x_location": 9,
+        "y_location": 13,
+        "fill_color": "A66E2C"
+    },
+    {
+        "id": 2081645,
+        "punk_id": 9999,
+        "pixel_id": 110,
+        "x_location": 10,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081646,
+        "punk_id": 9999,
+        "pixel_id": 111,
+        "x_location": 11,
+        "y_location": 13,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081647,
+        "punk_id": 9999,
+        "pixel_id": 112,
+        "x_location": 12,
+        "y_location": 13,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081648,
+        "punk_id": 9999,
+        "pixel_id": 113,
+        "x_location": 13,
+        "y_location": 13,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081649,
+        "punk_id": 9999,
+        "pixel_id": 114,
+        "x_location": 14,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081650,
+        "punk_id": 9999,
+        "pixel_id": 115,
+        "x_location": 15,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081651,
+        "punk_id": 9999,
+        "pixel_id": 116,
+        "x_location": 16,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081652,
+        "punk_id": 9999,
+        "pixel_id": 117,
+        "x_location": 17,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081653,
+        "punk_id": 9999,
+        "pixel_id": 118,
+        "x_location": 18,
+        "y_location": 13,
+        "fill_color": "4A1201"
+    },
+    {
+        "id": 2081654,
+        "punk_id": 9999,
+        "pixel_id": 119,
+        "x_location": 19,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081655,
+        "punk_id": 9999,
+        "pixel_id": 120,
+        "x_location": 20,
+        "y_location": 13,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081656,
+        "punk_id": 9999,
+        "pixel_id": 121,
+        "x_location": 21,
+        "y_location": 13,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081657,
+        "punk_id": 9999,
+        "pixel_id": 122,
+        "x_location": 3,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081658,
+        "punk_id": 9999,
+        "pixel_id": 123,
+        "x_location": 4,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081659,
+        "punk_id": 9999,
+        "pixel_id": 124,
+        "x_location": 5,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081660,
+        "punk_id": 9999,
+        "pixel_id": 125,
+        "x_location": 6,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081661,
+        "punk_id": 9999,
+        "pixel_id": 126,
+        "x_location": 7,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081662,
+        "punk_id": 9999,
+        "pixel_id": 127,
+        "x_location": 8,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081663,
+        "punk_id": 9999,
+        "pixel_id": 128,
+        "x_location": 9,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081664,
+        "punk_id": 9999,
+        "pixel_id": 129,
+        "x_location": 10,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081665,
+        "punk_id": 9999,
+        "pixel_id": 130,
+        "x_location": 11,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081666,
+        "punk_id": 9999,
+        "pixel_id": 131,
+        "x_location": 12,
+        "y_location": 14,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081667,
+        "punk_id": 9999,
+        "pixel_id": 132,
+        "x_location": 13,
+        "y_location": 14,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081668,
+        "punk_id": 9999,
+        "pixel_id": 133,
+        "x_location": 14,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081669,
+        "punk_id": 9999,
+        "pixel_id": 134,
+        "x_location": 15,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081670,
+        "punk_id": 9999,
+        "pixel_id": 135,
+        "x_location": 16,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081671,
+        "punk_id": 9999,
+        "pixel_id": 136,
+        "x_location": 17,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081672,
+        "punk_id": 9999,
+        "pixel_id": 137,
+        "x_location": 18,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081673,
+        "punk_id": 9999,
+        "pixel_id": 138,
+        "x_location": 19,
+        "y_location": 14,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081674,
+        "punk_id": 9999,
+        "pixel_id": 139,
+        "x_location": 20,
+        "y_location": 14,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081675,
+        "punk_id": 9999,
+        "pixel_id": 140,
+        "x_location": 8,
+        "y_location": 15,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081676,
+        "punk_id": 9999,
+        "pixel_id": 141,
+        "x_location": 9,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081677,
+        "punk_id": 9999,
+        "pixel_id": 142,
+        "x_location": 10,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081678,
+        "punk_id": 9999,
+        "pixel_id": 143,
+        "x_location": 11,
+        "y_location": 15,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081679,
+        "punk_id": 9999,
+        "pixel_id": 144,
+        "x_location": 12,
+        "y_location": 15,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081680,
+        "punk_id": 9999,
+        "pixel_id": 145,
+        "x_location": 13,
+        "y_location": 15,
+        "fill_color": "80DBDA"
+    },
+    {
+        "id": 2081681,
+        "punk_id": 9999,
+        "pixel_id": 146,
+        "x_location": 14,
+        "y_location": 15,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081682,
+        "punk_id": 9999,
+        "pixel_id": 147,
+        "x_location": 15,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081683,
+        "punk_id": 9999,
+        "pixel_id": 148,
+        "x_location": 16,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081684,
+        "punk_id": 9999,
+        "pixel_id": 149,
+        "x_location": 17,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081685,
+        "punk_id": 9999,
+        "pixel_id": 150,
+        "x_location": 18,
+        "y_location": 15,
+        "fill_color": "713F1D"
+    },
+    {
+        "id": 2081686,
+        "punk_id": 9999,
+        "pixel_id": 151,
+        "x_location": 19,
+        "y_location": 15,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081687,
+        "punk_id": 9999,
+        "pixel_id": 152,
+        "x_location": 9,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081688,
+        "punk_id": 9999,
+        "pixel_id": 153,
+        "x_location": 10,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081689,
+        "punk_id": 9999,
+        "pixel_id": 154,
+        "x_location": 11,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081690,
+        "punk_id": 9999,
+        "pixel_id": 155,
+        "x_location": 12,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081691,
+        "punk_id": 9999,
+        "pixel_id": 156,
+        "x_location": 13,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081692,
+        "punk_id": 9999,
+        "pixel_id": 157,
+        "x_location": 14,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081693,
+        "punk_id": 9999,
+        "pixel_id": 158,
+        "x_location": 15,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081694,
+        "punk_id": 9999,
+        "pixel_id": 159,
+        "x_location": 16,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081695,
+        "punk_id": 9999,
+        "pixel_id": 160,
+        "x_location": 17,
+        "y_location": 16,
+        "fill_color": "000000"
+    },
+    {
+        "id": 2081696,
+        "punk_id": 9999,
+        "pixel_id": 161,
+        "x_location": 18,
+        "y_location": 16,
+        "fill_color": "000000"
+    }
+]
