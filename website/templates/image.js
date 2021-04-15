@@ -3,13 +3,15 @@ let data = ''
 let img_array = []
 let delay = 250
 
-function get_image_id(ele){
-    //ele = document.getElementById('image_id')
-
-    if (event.keyCode==13){
-        id = ele.value
-        console.log('ID: ',id)
-    }
+function get_image_id(){
+    ele = document.getElementById('image_id')
+    id = ele.value
+    console.log('ID: ',id)
+    return id
+    //if (event.keyCode==13){
+    //    id = ele.value
+    //    console.log('ID: ',id)
+    //}
 }
 
 function decode(data){
@@ -32,6 +34,7 @@ function decode(data){
 }
 
 function get_data(){
+    id = get_image_id()
     var data_src = `../static/${id}.json`;
     console.log('Getting data from: ',data_src)
     fetch(data_src)
@@ -56,7 +59,6 @@ async function melt(img_array){
     
     for (let i = 0;i<40;i++){
 
-        console.log('border fixed')
         for (let index = 24*24 ; index > 0; index--){
             y = Math.floor(index/24)
             x = index%24
