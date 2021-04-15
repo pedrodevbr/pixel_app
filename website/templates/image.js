@@ -60,13 +60,21 @@ async function melt(img_array){
         }
         console.log(i)
         for (let index = 24*24 ; index > 0; index--){
-            
+            y = Math.floor(index/24)
+            x = index%24
             if(img_array[index]==BACKGROUND_COLOR){
                 continue
             }
+            else if (x==23){ //right border
+                if (img_array[x-1+(y+1)*24] == BACKGROUND_COLOR){
+                    img_array[x-1+(y+1)*24] = img_array[x+y*24]}
+            }
+            else if (x==0){//#left border
+                if (img_array[x+1+(y+1)*24] == BACKGROUND_COLOR){
+                    img_array[x+1+(y+1)*24] = img_array[x+y*24]}
+            }
             else{
-                y = Math.floor(index/24)
-                x = index%24
+                
                 //console.log(x,y)
                 var y_down = y+1
                 var x_right= x-1
