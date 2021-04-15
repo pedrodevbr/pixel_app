@@ -55,10 +55,8 @@ async function melt(img_array){
     const BACKGROUND_COLOR = 'A0A0A0'
     const original_img_array = img_array
     for (let i = 0;i<30;i++){
-        if(i==15){
-            img_array=original_img_array
-        }
-        console.log(i)
+
+        console.log('border fixed')
         for (let index = 24*24 ; index > 0; index--){
             y = Math.floor(index/24)
             x = index%24
