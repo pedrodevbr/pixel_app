@@ -54,7 +54,7 @@ function draw_image(img_array,canvas){
 async function melt(img_array){
     const BACKGROUND_COLOR = 'A0A0A0'
     
-    for (let i = 0;i<30;i++){
+    for (let i = 0;i<40;i++){
 
         console.log('border fixed')
         for (let index = 24*24 ; index > 0; index--){
